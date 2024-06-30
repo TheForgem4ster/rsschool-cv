@@ -54,3 +54,17 @@ public void Configure(IApplicationBuilder app, IWebHostEnvironment env)
 - [Python Classes and Inheritance, University of Michigan](\Certificates\Python\Python_Classes_and_Inheritance_University_of_Michigan.pdf)
 - [Data Collection and Processing with Python, University of Michigan](\Certificates\Python\CourseraDataCollectionandProcessingwithPython.pdf)
 - [Microsoft Azure Fundamentals AZ-900 Exam Prep](\Certificates\Azure\CourseraMicrosoftAzureFundamentalsAZ-900ExamPrep.pdf)
+
+## Education
+
+- Studying in an instrumental violin class Music School №9 named V.I.Sokalsky, Kharkiv, Ukraine
+- The program of the machine tool department Kharkiv Art School №1 named I.Yu.Repin, Kharkiv, Ukraine
+- Computer engineering and Management, Bachelor’s degree KHARKIV NATIONAL UNIVERSITY OF RADIO ELECTRONICS, Kharkiv, Ukraine
+- System Programming, Master’s degree KHARKIV NATIONAL UNIVERSITY OF RADIO
+  ELECTRONICS, Kharkiv, Ukraine
+
+## Language
+
+- **English:** Intermediate (B1)
+- **Russian:** Native speaker
+- **Ukrainian:** Native speaker
