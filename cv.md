@@ -23,7 +23,7 @@ I'm a 1-st year master's student at KNURE, a very purposeful and responsible per
 - **Version control systems:** Git
 - **Development tools:** Visual Studio, Visual Studio Code, MongoDB, Management Studio, Postman
 
-### Code examples
+## Code examples
 
 - [TypeScript project](https://github.com/TheForgem4ster/Music-Platforms)
 - [Layout project](https://github.com/TheForgem4ster/EPAM_Website)
@@ -43,3 +43,14 @@ public void Configure(IApplicationBuilder app, IWebHostEnvironment env)
     app.UseStaticFiles();
 }
 ```
+
+## Certificates
+
+- [Parallel Programming in Java, Rice University](\Certificates\Java\Coursera_Java_Parallel.pdf)
+- [Programming with JavaScript, Meta](\Certificates\JavaScript\Coursera_JavaScript.pdf)
+- [Introduction to Front-End Development, Meta](\Certificates\JavaScript\Coursera_Front-end.pdf)
+- [Python Basics, University of Michigan](\Certificates\Python\Coursera_Python_Basic.pdf)
+- [Python Functions, Files, and Dictionaries, University of Michigan](\Certificates\Python\CourseraPythonFunctions_Files_andDictionaries.pdf)
+- [Python Classes and Inheritance, University of Michigan](\Certificates\Python\Python_Classes_and_Inheritance_University_of_Michigan.pdf)
+- [Data Collection and Processing with Python, University of Michigan](\Certificates\Python\CourseraDataCollectionandProcessingwithPython.pdf)
+- [Microsoft Azure Fundamentals AZ-900 Exam Prep](\Certificates\Azure\CourseraMicrosoftAzureFundamentalsAZ-900ExamPrep.pdf)
