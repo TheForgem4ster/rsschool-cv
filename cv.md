@@ -31,16 +31,10 @@ I'm a 1-st year master's student at KNURE, a very purposeful and responsible per
 **Code fragment:**
 
 ```csharp
-public void Configure(IApplicationBuilder app, IWebHostEnvironment env)
-{
-    if (env.IsDevelopment())
-    {
-        app.UseDeveloperExceptionPage();
+public class CustomMath {
+    public static int multiply(int a, int b) {
+        return a * b;
     }
-
-    app.UseRouting();
-    app.UseDefaultFiles();
-    app.UseStaticFiles();
 }
 ```
 
