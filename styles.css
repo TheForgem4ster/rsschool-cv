@@ -1,0 +1,174 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  font-family: Arial, sans-serif;
+  background-color: #f4f4f4;
+  color: #333;
+}
+
+header,
+main,
+footer {
+  max-width: 1200px;
+  margin: 20px auto;
+}
+
+header nav ul {
+  display: flex;
+  justify-content: space-around;
+  list-style-type: none;
+  padding: 10px 0;
+  background-color: #333;
+}
+
+header nav ul li a {
+  color: #fff;
+  text-decoration: none;
+  font-weight: bold;
+}
+
+.container {
+  display: flex;
+  background-color: #fff;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+  margin-top: 20px;
+}
+
+.left-column {
+  width: 30%;
+  background-color: #333;
+  color: #fff;
+  padding: 20px;
+  text-align: center;
+}
+
+.right-column {
+  width: 70%;
+  padding: 20px;
+}
+
+.profile-pic img {
+  width: 100%;
+  border-radius: 50%;
+  border: 5px solid #997300;
+  transition: transform 0.3s;
+}
+.profile-pic img:hover {
+  transform: scale(1.05);
+}
+.contact-info h1 {
+  font-size: 26px;
+  margin: 20px 0;
+  color: #ffc107;
+}
+
+.contact-info ul {
+  list-style-type: none;
+  padding: 0;
+}
+
+.contact-info ul li {
+  margin-bottom: 10px;
+}
+
+.contact-info ul li a {
+  color: #eee8e8;
+  text-decoration: none;
+}
+
+.contact-info ul li a {
+  text-decoration: none;
+}
+
+.education,
+.about,
+.skills,
+.projects,
+.code-examples,
+.certificates,
+.languages {
+  margin-bottom: 30px;
+}
+
+h2 {
+  font-size: 24px;
+  margin-bottom: 20px;
+  border-bottom: 2px solid #ffc107;
+  padding-bottom: 5px;
+}
+
+ul {
+  list-style-type: none;
+  padding: 0;
+}
+
+ul li {
+  margin-bottom: 10px;
+}
+
+pre {
+  background-color: #f4f4f4;
+  padding: 10px;
+  border-left: 5px solid #333;
+  overflow-x: auto;
+}
+
+pre code {
+  font-family: monospace;
+}
+
+footer {
+  text-align: center;
+  margin-top: 20px;
+  padding: 10px 0;
+  background-color: #333;
+  color: #fff;
+}
+
+.footer-content {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  max-width: 1200px;
+  margin: 0 auto;
+  padding: 0 20px;
+}
+
+.footer-left {
+  text-align: left;
+  flex: 1;
+}
+
+.footer-center {
+  text-align: center;
+  flex: 1;
+}
+
+.footer-right {
+  text-align: right;
+  flex: 1;
+}
+
+footer p {
+  margin-bottom: 10px;
+}
+
+footer a {
+  color: #00ffea;
+  text-decoration: none;
+}
+
+.footer-center img,
+.footer-right img {
+  width: 50px;
+  height: auto;
+}
+
+.footer-right img {
+  width: 100px;
+  height: auto;
+}
